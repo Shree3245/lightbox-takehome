@@ -141,7 +141,6 @@ services:
         build: .
         environment:
             - MONGODB_URL=mongodb://mongo:27017
-            - DATABASE_NAME=your_database_name
         depends_on:
             - mongo
         labels:
