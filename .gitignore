@@ -1,0 +1,6 @@
+/traefik/traefik-public-certificates
+/app/__pycache__
+/app/.pytest_cache
+/app/routes/__pycache__
+/app/tests/__pycache__
+/app/tests/.pytest_cache
